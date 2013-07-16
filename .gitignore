@@ -1,2 +1,4 @@
 *.py[co]
 *.tar.*
+dist
+.vagrant
