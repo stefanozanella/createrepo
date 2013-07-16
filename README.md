@@ -18,7 +18,7 @@ In Linux, just rely on the `Makefile`:
     DESTDIR=installation/path make install
 
 For OS X and Windows, a `Vagrantfile` and a `Rakefile` are provided to perform
-the build. Given a Ruby >= 1.8.7 installation is provided, you can just run:
+the build. Given a Ruby >= 1.8.7 installation is available, you can just run:
 
     rake
 
